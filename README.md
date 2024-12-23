@@ -1,1 +1,1 @@
-A simple application with 
+Spring Boot, MySQL, JPA, Hibernate Restful CRUD API
