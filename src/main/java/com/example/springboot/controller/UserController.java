@@ -55,6 +55,4 @@ public class UserController {
         return new ResponseEntity<>("User with id: " + userId + " successfully deleted", HttpStatus.OK);
     }
 
-
-
 }
