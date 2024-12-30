@@ -6,3 +6,4 @@ Spring Boot, MySQL, JPA, Hibernate Restful CRUD API:
 - Exception Handling
 - Added validation
 - Spring Boot Actuator
+- Swagger API Documentation(http://localhost:8080/swagger-ui/index.html)
