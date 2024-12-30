@@ -5,3 +5,4 @@ Spring Boot, MySQL, JPA, Hibernate Restful CRUD API:
 - Modelmapper
 - Exception Handling
 - Added validation
+- Spring Boot Actuator
